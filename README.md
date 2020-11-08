@@ -29,5 +29,5 @@
 
 [VZI UK](https://visionzerouk.wordpress.com/)
 
-Prepared by [Georgii Kupriianov](https://github.com/1spb-org) 
+Prepared by [Georgii Kupriianov](https://github.com/1spb-org). And [here's](https://vk.com/jorge/VisionZero) why.
 
