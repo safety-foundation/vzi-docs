@@ -16,12 +16,13 @@
 7. Boston, Massachusetts: [VZI](https://www.boston.gov/transportation/vision-zero)
 8. Seattle, Washington: [VZI](https://www.seattle.gov/visionzero)
 9. NYC [VZI Pages](https://www1.nyc.gov/content/visionzero/pages/) (Reports: [Y5](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-5-report.pdf) [Y4](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-4-report.pdf) [Y3](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-3-report.pdf) [Y2](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-two-report.pdf); [The Vision Zero Fleet Safety Forum](https://www1.nyc.gov/site/dcas/agencies/vision-zero-fleet-safety.page) )
+10. [Washington DC VZI](https://ddot.dc.gov/page/vision-zero-initiative), [Website](https://www.dcvisionzero.com/)
 
 #### Russia
 
-10. [Нулевая смертность на дорогах и как её достичь
+11. [Нулевая смертность на дорогах и как её достичь
  / Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html) [RU]
-11. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
+12. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
 
 
