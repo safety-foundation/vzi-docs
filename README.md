@@ -14,7 +14,7 @@
 5. Austin, Texas: [VZI](https://austintexas.gov/department/vision-zero) [Prorgams](https://austintexas.gov/page/programs-and-initiatives)
 6. Alexandria, Virginia: [VZI](https://www.alexandriava.gov/VisionZero)
 7. Boston, Massachusetts: [VZI](https://www.boston.gov/transportation/vision-zero)
-8. Seattle, Washington: [VSI](https://www.seattle.gov/visionzero/materials)
+8. Seattle, Washington: [VZI](https://www.seattle.gov/visionzero/materials)
 
 #### Russia
 
