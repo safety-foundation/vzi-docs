@@ -35,5 +35,9 @@
 
 [VZI UK](https://visionzerouk.wordpress.com/)
 
+#### Iran
+
+[Link](http://www.c4ts.ir/2016/02/vision-zero-initiation-vzi-approach.html)
+
 Prepared by [Georgii Kupriianov](https://github.com/1spb-org). And [here's](https://vk.com/jorge/VisionZero) why.
 
