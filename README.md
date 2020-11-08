@@ -22,7 +22,8 @@
 
 11. [Нулевая смертность на дорогах и как её достичь
  / Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html) [RU]
-12. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
+12. [Опрос о возможности старта VZI в Санкт-Петербурге](https://vk.com/wall599068_6826)
+13. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
 
 #### UK
