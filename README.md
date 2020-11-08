@@ -24,7 +24,10 @@
 
 #### Russia
 
-10. [Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html)
+10. [Нулевая смертность на дорогах и как её достичь
+ / Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html) [RU]
+11. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
+](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
 
 
 Prepared by [Georgii Kupriianov](https://github.com/1spb-org) 
