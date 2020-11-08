@@ -14,12 +14,18 @@
 5. Austin, Texas: [VZI](https://austintexas.gov/department/vision-zero), [Prorgams](https://austintexas.gov/page/programs-and-initiatives)
 6. Alexandria, Virginia: [VZI](https://www.alexandriava.gov/VisionZero)
 7. Boston, Massachusetts: [VZI](https://www.boston.gov/transportation/vision-zero)
-8. Seattle, Washington: [VZI](https://www.seattle.gov/visionzero/materials)
+8. Seattle, Washington: [VZI](https://www.seattle.gov/visionzero)
+9. NYC [VZI Pages](https://www1.nyc.gov/content/visionzero/pages/)
+* [YEAR 5 REPORT | MARCH 2019](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-5-report.pdf)
+* [YEAR 4 REPORT | MARCH 2018](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-4-report.pdf)
+* [YEAR 3 REPORT | FEB.  2017](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-3-report.pdf)
+* [YEAR 2 REPORT | MARCH 2016](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-two-report.pdf)
+* [The Vision Zero Fleet Safety Forum](https://www1.nyc.gov/site/dcas/agencies/vision-zero-fleet-safety.page)
 
 #### Russia
 
-9. [Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html)
+10. [Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html)
 
 
-By [Georgii Kupriianov](https://github.com/1spb-org) 
+Prepared by [Georgii Kupriianov](https://github.com/1spb-org) 
 
