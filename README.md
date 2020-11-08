@@ -10,6 +10,13 @@
 
 #### USA
 
-4. San Francisco, California: [ZERO TRAFFIC DEATHS IN SAN FRANCISCO](https://www.visionzerosf.org/) [EN] [PDF 2017 Two-Year Action Strategy](https://www.sfmta.com/sites/default/files/reports-and-documents/2017/12/vision-zero-action-strategy-final.pdf)
-5. Austin, Texas: [VZI](https://austintexas.gov/department/vision-zero) [Prorgams](https://austintexas.gov/page/programs-and-initiatives)
+1004. San Francisco, California: [ZERO TRAFFIC DEATHS IN SAN FRANCISCO](https://www.visionzerosf.org/) [EN] [PDF 2017 Two-Year Action Strategy](https://www.sfmta.com/sites/default/files/reports-and-documents/2017/12/vision-zero-action-strategy-final.pdf)
+1005. Austin, Texas: [VZI](https://austintexas.gov/department/vision-zero) [Prorgams](https://austintexas.gov/page/programs-and-initiatives)
+
+#### Russia
+
+9001. [Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html)
+
+
+By [Georgii Kupriianov](https://github.com/1spb-org) 
 
