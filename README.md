@@ -8,6 +8,10 @@
 
 ### Per country
 
+#### Sweden
+
+Official website [ARCHIVED](https://web.archive.org/web/20180730071410/http://www.visionzeroinitiative.com/)
+
 #### USA
 
 4. San Francisco, California: [ZERO TRAFFIC DEATHS IN SAN FRANCISCO](https://www.visionzerosf.org/) [EN] [PDF 2017 Two-Year Action Strategy](https://www.sfmta.com/sites/default/files/reports-and-documents/2017/12/vision-zero-action-strategy-final.pdf)
