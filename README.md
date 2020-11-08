@@ -13,10 +13,12 @@
 4. San Francisco, California: [ZERO TRAFFIC DEATHS IN SAN FRANCISCO](https://www.visionzerosf.org/) [EN] [PDF 2017 Two-Year Action Strategy](https://www.sfmta.com/sites/default/files/reports-and-documents/2017/12/vision-zero-action-strategy-final.pdf)
 5. Austin, Texas: [VZI](https://austintexas.gov/department/vision-zero) [Prorgams](https://austintexas.gov/page/programs-and-initiatives)
 6. Alexandria, Virginia: [VZI](https://www.alexandriava.gov/VisionZero)
+7. Boston, Massachusetts: [VZI](https://www.boston.gov/transportation/vision-zero)
+8. Seattle, Washington: [VSI](https://www.seattle.gov/visionzero/materials)
 
 #### Russia
 
-7. [Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html)
+9. [Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html)
 
 
 By [Georgii Kupriianov](https://github.com/1spb-org) 
