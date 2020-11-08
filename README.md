@@ -25,6 +25,9 @@
 12. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
 
+#### UK
+
+[VZI UK](https://visionzerouk.wordpress.com/)
 
 Prepared by [Georgii Kupriianov](https://github.com/1spb-org) 
 
