@@ -10,6 +10,9 @@
 
 #### Sweden
 
+* [Trafikverket.se VZI MAY_2020 presentation](https://www.trafikverket.se/contentassets/804ce465de224ec8bd72d27d12691923/tillsammans_for_nollvisionen_maj_2020.pdf)
+* [Trafikverket.se: presentation](https://www.trafikverket.se/contentassets/63f0b8caf88045a2a32dffb37ff26ccb/infoblad_nollvisionen_eng_korr2.pdf)
+* [Trafikverket.se: related pubs list](https://www.trafikverket.se/en/startpage/operations/Operations-road/vision-zero-academy/Publications-related-to-Vision-Zero/)
 * [Innovation in Sweden](https://sweden.se/business/innovation-in-sweden)
 * Official website [ARCHIVED](https://web.archive.org/web/20180730071410/http://www.visionzeroinitiative.com/)
 
