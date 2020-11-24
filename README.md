@@ -46,3 +46,5 @@
 
 Prepared by [Georgii Kupriianov](https://github.com/1spb-org). And [here's](https://vk.com/jorge/VisionZero) why.
 
+<a href="https://info.flagcounter.com/aWhH"><img src="https://s11.flagcounter.com/map/aWhH/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
+
