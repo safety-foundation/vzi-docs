@@ -32,10 +32,11 @@
 
 11. [Нулевая смертность на дорогах и как её достичь
  / Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html) [RU]
-12. [Опрос о возможности старта VZI в Санкт-Петербурге](https://vk.com/wall599068_6826)
+12. [Опрос о возможности старта VZI в Санкт-Петербурге](https://vk.com/wall599068_6826) и [Проект обращения властям города](https://github.com/safety-foundation/initiatives/blob/main/ru/78/gov-claim-001.md)
 13. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
 14. Moscow: [Daria Besedina bills](https://besedina.moscow/bills) and [Two Years of VZI Campaign](https://besedina.moscow/post/dva-goda-kampanii-nol-smertey.html)
+
 
 #### UK
 
