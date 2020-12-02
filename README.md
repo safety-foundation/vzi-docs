@@ -35,6 +35,7 @@
 12. [Опрос о возможности старта VZI в Санкт-Петербурге](https://vk.com/wall599068_6826)
 13. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
+14. Moscow: [Daria Besedina bills](https://besedina.moscow/bills) and [Two Years of VZI Campaign](https://besedina.moscow/post/dva-goda-kampanii-nol-smertey.html)
 
 #### UK
 
