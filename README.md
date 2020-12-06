@@ -6,6 +6,12 @@
 2. [EU TRIMIS: **Vision Zero Initiative** Official Page](https://trimis.ec.europa.eu/project/vision-zero-initiative)
 3. [World Health Organization: Media brief all factsheets (rev._nov. 2017)](https://www.who.int/violence_injury_prevention/publications/road_traffic/Media_brief_all_factsheets_web_rev_nov_2017.pdf) [EN]
 
+### International
+
+* [The Vision Zero Challenge](https://visionzerochallenge.org/)
+* [Search VZI ArXiv Papers at Google](https://www.google.com/search?q=%22vision+zero%22+site%3Aarxiv.org)
+* [Search VZI at Google](https://www.google.com/search?q=%22vision+zero%22)
+
 ### Per country
 
 #### Sweden
@@ -15,6 +21,7 @@
 * [Trafikverket.se: related pubs list](https://www.trafikverket.se/en/startpage/operations/Operations-road/vision-zero-academy/Publications-related-to-Vision-Zero/)
 * [Innovation in Sweden](https://sweden.se/business/innovation-in-sweden)
 * Official website [ARCHIVED](https://web.archive.org/web/20180730071410/http://www.visionzeroinitiative.com/)
+* [Sweden_Rus_VisionZero](https://www.unece.org/fileadmin/DAM/trans/roadsafe/unda/Sweden_Rus_VisionZero.pdf) [RU]
 
 #### USA
 
@@ -27,16 +34,17 @@
 8. Seattle, Washington: [VZI](https://www.seattle.gov/visionzero)
 9. NYC [VZI Pages](https://www1.nyc.gov/content/visionzero/pages/) (Reports: [Y5](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-5-report.pdf) [Y4](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-4-report.pdf) [Y3](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-3-report.pdf) [Y2](https://www1.nyc.gov/assets/visionzero/downloads/pdf/vision-zero-year-two-report.pdf); [The Vision Zero Fleet Safety Forum](https://www1.nyc.gov/site/dcas/agencies/vision-zero-fleet-safety.page) )
 10. [Washington DC VZI](https://ddot.dc.gov/page/vision-zero-initiative), [Website](https://www.dcvisionzero.com/) [2016 Report](https://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Final_2016%20Progress%20Report_V3.pdf) [TF 2018 Report](https://ddot.dc.gov/sites/default/files/dc/sites/ddot/page_content/attachments/Major_Crash_Review_Task_Force_report2018_FINAL.pdf)
+11. [Vision Zero Cities Journal (VZCJ) Archive](https://www.transalt.org/vision-zero-cities-journal-archive) ([VZCJ Medium](https://medium.com/vision-zero-cities-journal))
 
 #### Russia
 
-11. [Нулевая смертность на дорогах и как её достичь
+12. [Нулевая смертность на дорогах и как её достичь
  / Varlamov.ru LJ blog entry](https://varlamov.ru/3673050.html) [RU]
-12. [Опрос о возможности старта VZI в Санкт-Петербурге](https://vk.com/wall599068_6826) и [Проект обращения к властям города](https://github.com/safety-foundation/initiatives/blob/main/ru/78/gov-claim-001.md)
-13. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
+13. [Опрос о возможности старта VZI в Санкт-Петербурге](https://vk.com/wall599068_6826) и [Проект обращения к властям города](https://github.com/safety-foundation/initiatives/blob/main/ru/78/gov-claim-001.md)
+14. *[NEW]* [Смерть на дорогах — это ненормально. Vision Zero / Максим Кац
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
-14. Moscow: [Daria Besedina bills](https://besedina.moscow/bills) and [Two Years of VZI Campaign](https://besedina.moscow/post/dva-goda-kampanii-nol-smertey.html)
-
+15. Moscow: [Daria Besedina bills](https://besedina.moscow/bills) and [Two Years of VZI Campaign](https://besedina.moscow/post/dva-goda-kampanii-nol-smertey.html)
+16. [Sweden_Rus_VisionZero](https://www.unece.org/fileadmin/DAM/trans/roadsafe/unda/Sweden_Rus_VisionZero.pdf) [RU]
 
 #### UK
 
