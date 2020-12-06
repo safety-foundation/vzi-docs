@@ -45,6 +45,7 @@
 ](https://www.youtube.com/watch?v=ZAXMljrt0Cg) [RU] (Video)
 15. Moscow: [Daria Besedina bills](https://besedina.moscow/bills) and [Two Years of VZI Campaign](https://besedina.moscow/post/dva-goda-kampanii-nol-smertey.html)
 16. [Sweden_Rus_VisionZero](https://www.unece.org/fileadmin/DAM/trans/roadsafe/unda/Sweden_Rus_VisionZero.pdf) [RU]
+17. [Красивый Петербург. Vision Zero: как предотвратить смерти на дорогах](https://vk.com/@peterburg_krasiv-vision-zero) (Автор - [Валентина Соловьёва](https://vk.com/valyuka))
 
 #### UK
 
